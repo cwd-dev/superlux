@@ -1,0 +1,52 @@
+/* Essential Grid styles
+----------------------------------------------------------------- */
+
+.esg-starring {
+	vertical-align: top;
+}
+.esg-starring .star-rating, .esg-starring-page .star-rating {
+	width: 6em;
+}
+
+.flat-light .esg-filters .esg-sortbutton-order,
+.flat-light .esg-filters .esg-cartbutton-order {
+	line-height:36px;
+	margin:0;
+}
+.flat-light .esg-filters .esg-sortbutton {
+	padding-right: 0;
+}
+
+.esgbox-overlay {
+	z-index: 228010 !important;
+}
+.esgbox-opened {
+	z-index: 228030 !important;
+}
+
+.theme_style_1 .eg-icon-plus:before {
+  content: "\e961";
+  font-family: $theme_icons;
+}
+.theme_style_1 .eg-icon-search:before {
+  content: "\e970";
+  font-family: $theme_icons;
+}
+
+li.eg-theme_skin_1-wrapper{
+	z-index: 0;
+}
+.eg-theme_skin_1-wrapper *,
+.eg-theme_skin_2-wrapper *{
+    -webkit-backface-visibility: hidden !important;
+}
+.eg-theme_skin_2-wrapper .eg-theme_skin_2-element-10,
+.eg-theme_skin_1-wrapper .eg-theme_skin_1-element-10{
+  letter-spacing: -0.67px;
+	z-index: 3 !important;
+}
+.eg-theme_skin_2-element-12.esg-absolute,
+.eg-theme_skin_1-element-12.esg-absolute {
+    right: 0;
+    bottom: 0;
+}

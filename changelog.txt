@@ -1,0 +1,52 @@
+Version 1.0.6
+    Added:
+       	- Compatibility with ThemeREX Updater
+       	- Compatibility with Elegro Crypto Payment
+
+    Fixed:
+        - Update plugins to their latest versions
+
+    Changed:
+        - Update demo data
+
+
+Version 1.0.5
+    Fixed:
+    	- Compatibility with Wordpress 5.3
+    	- Update plugins to their latest versions
+	- Installing plugins
+
+Version 1.0.4
+    Fixed:
+    - Compatibility with PHP 7.3
+    - Compatibility with Wordpress 5.2.2
+    - Compatibility with WooCommerce 3.6.5
+    - Update plugins to their latest versions
+
+Version 1.0.3
+    Fixed:
+    - Update alert
+
+Version 1.0.2
+    Fixed:
+    - Scripts libraries updated
+    - Compatibility with PHP7.2
+    - Update plugins to their latest versions
+
+Version 1.0.1
+    	Added:
+    		- Compatibility with WP 5.0.3
+            - Alert to Demo data installation
+            - Privacy Policy page
+
+        Fixed:
+            - Compatibility with Gutenberg and other PageBuilders
+            - Update plugins to their latest versions
+            - Improve theme styles
+
+        Changed:
+            - Update default contact forms to make them GDPR-compliant
+    		- Update demo data
+
+Version 1.0.0
+Release

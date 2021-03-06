@@ -1,0 +1,9 @@
+{
+  "name": "Superlux",
+  "version": "1.0.0",
+  "description": "Tema para o site Superlux",
+  "main": "index.js",
+  "repository": "https://github.com/cbral/superflex",
+  "author": "cbral <cbraljunior@icloud.com>",
+  "license": "MIT"
+}
